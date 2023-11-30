@@ -18,7 +18,7 @@ NAVE_SIZE = 5
 VELOCIDAD = 100
 
 BG = pygame.transform.scale(pygame.image.load("fondo.jpg"), (WHDTH, HEIGHT))
-PLANETA = pygame.transform.scale(pygame.image.load("jupiter.png"), (PLANETA_SIZE * 2, PLANETA_SIZE * 2))
+#PLANETA = pygame.transform.scale(pygame.image.load("planeta.png"), (PLANETA_SIZE * 2, PLANETA_SIZE * 2))
 
 WHITE = (255, 255, 255)
 RED = (255, 0, 0)
